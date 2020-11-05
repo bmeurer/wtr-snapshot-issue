@@ -1,0 +1,13 @@
+{
+  "name": "wtr-snapshot-issue",
+  "private": "true",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "wtr"
+  },
+  "devDependencies": {
+    "@open-wc/testing": "^2.5.32",
+    "@web/test-runner": "^0.9.7"
+  }
+}
